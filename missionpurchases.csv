@@ -1,0 +1,21 @@
+Equipment,Purchased trough,number
+MFD parts and toner,Shop@DFATD,129
+MFD parts and toner,Locally,11
+MFD parts and toner,purchased from other source,16
+MFD parts and toner,Did not purchase,5
+Paper that is not available locally,Shop@DFATD,32
+Paper that is not available locally,Locally,0
+Paper that is not available locally,purchased from other source,9
+Paper that is not available locally,Did not purchase,120
+New MFD or special printers,Shop@DFATD,59
+New MFD or special printers,Locally,6
+New MFD or special printers,purchased from other source,6
+New MFD or special printers,Did not purchase,90
+Desk UPS,Shop@DFATD,8
+Desk UPS,Locally,47
+Desk UPS,purchased from other source,1
+Desk UPS,Did not purchase,105
+Batteries for desk UPS,Shop@DFATD,14
+Batteries for desk UPS,Locally,38
+Batteries for desk UPS,purchased from other source,6
+Batteries for desk UPS,Did not purchase,103
